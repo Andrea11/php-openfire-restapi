@@ -1,5 +1,5 @@
 {
-    "name": "Andrea11/php-openfire-restapi",
+    "name": "andrea11/php-openfire-restapi",
     "description": "Manage Open fire server using Rest Api",
     "version": "1.0.0",
     "keywords": ["openfire", "xmpp", "chat"],
