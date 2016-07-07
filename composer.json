@@ -1,9 +1,9 @@
 {
-    "name": "Andrea11/php-openfire-restapi",
+    "name": "andrea11/php-openfire-restapi",
     "description": "Manage Open fire server using Rest Api",
     "version": "1.0.0",
     "keywords": ["openfire", "xmpp", "chat"],
-    "homepage": "https://github.com/Andrea11/php-openfire-restapi",
+    "homepage": "https://github.com/andrea11/php-openfire-restapi",
     "license": "MIT",
     "authors": [
         {
